@@ -32,4 +32,9 @@
         - `source ~/.bashrc`
  - ### Forth
     - `$ source ~/.bash_profile`
+    
+ - ### You can use
+    - `$ server`
+    - Use Option
+        - `$ server --port 4000`
  
