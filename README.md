@@ -1,5 +1,24 @@
 # WebServer
 
+
+## How to use
+- ### default
+  - ROOT
+    - `./`
+  - HOST
+    - `localhost`
+  - PORT
+    - `3000`
+- ### Options
+  - Root設定
+    - ex) `$ server --root ../`
+    
+  - Host設定
+    - ex) `$ server --host 127.0.0.0`
+  - Port設定
+    - ex) `$ server --port 4000`
+
+
 ## Add Commandline
  - ### First
     - `alias server(任意の名前)="ruby ~/rubyServer.rb`
@@ -14,12 +33,3 @@
  - ### Forth
     - `$ source ~/.bash_profile`
  
-## How to use
-- ### Options
-  - Root設定
-    - ex) `$ server --root ../`
-    
-  - Host設定
-    - ex) `$ server --host 127.0.0.0`
-  - Port設定
-    - ex) `$ server --port 4000`
