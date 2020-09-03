@@ -11,12 +11,12 @@
     - `3000`
 - ### Options
   - Root設定
-    - ex) `$ server --root ../`
+    - ex) `$ ruby rubyServer.rb --root ../`
     
   - Host設定
-    - ex) `$ server --host 127.0.0.0`
+    - ex) `$ ruby rubyServer.rb --host 127.0.0.0`
   - Port設定
-    - ex) `$ server --port 4000`
+    - ex) `$ ruby rubyServer.rb --port 4000`
 
 
 ## Add Commandline
