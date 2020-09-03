@@ -1,4 +1,4 @@
-# WebServer
+# WebServer on Ruby Webrick
 
 
 ## How to use
